@@ -48,7 +48,7 @@
     "commander": "^2.8.1",
     "errno": "^0.1.4",
     "express": "^4.13.3",
-    "insight-api": "osagga/insight-api#fixing-bch-address-format",
+    "insight-api": "osagga/insight-api#cash_v1",
     "insight-ui": "0.4.0",
     "leveldown": "^2.0.0",
     "levelup": "^2.0.0",
