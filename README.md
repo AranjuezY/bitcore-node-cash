@@ -15,7 +15,7 @@ Bitcore Node (BCH)
 ## Install
 
 ```bash
-git clone -b cash https://github.com/osagga/bitcore-node.git && cd bitcore-node
+git clone https://github.com/osagga/bitcore-node-cash.git && cd bitcore-node-cash
 npm install
 ./bin/bitcore-node start
 ```
