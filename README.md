@@ -1,7 +1,8 @@
 Bitcore Node (BCH)
 ============
 
-## !! THIS IS STILL IN BETA, Please use with caution and check the open issues before using!!
+## !!THIS IS STILL IN BETA, Please use with caution and check the open issues before using!!
+## For a more Stable version of bitcore-node (v3.1.3) that works with BCH, please check this [guide](https://github.com/osagga/bch-bitcore-setup)
 ## Prerequisites
 
 - Bitcoin Cash Full node (local/remote).
