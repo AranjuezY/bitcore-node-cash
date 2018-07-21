@@ -1,4 +1,4 @@
-Bitcore Node (BCH)
+Bitcore Node (v5) (BCH)
 ============
 
 ## !!THIS IS STILL IN BETA, Please use with caution and check the open issues before using!!
